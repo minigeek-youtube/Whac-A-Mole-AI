@@ -5,7 +5,7 @@
 3. Press on that, and then press on "Download ZIP".
 4. In your downloads, extract the ZIP file (right-click > "extract files" (or "extract here")).
 5.You will need to install a module (pynput). Open Command prompt/Terminal and type in "pip install pynput (https://pypi.org/project/pynput/#description")
-5. Double-click on !["Whac A Mole Ai.py](hit.png)
+6. Double-click on !["Whac A Mole Ai.py](hit.png)
 
 Comment down below your Ai's high-score. Mine is 3150.
 Enjoy
