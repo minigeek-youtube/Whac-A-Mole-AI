@@ -6,7 +6,6 @@
 4. In your downloads, extract the ZIP file (right-click > "extract files" (or "extract here")).
 5. Double-click on !["Whac A Mole Ai.py](hit.png)
 6. At the top, press on run, then "Run Module" (F5).
-7. It should open the game up. Wait around 15 sec, before it scrolls down and begins setting up the game.
 
 Comment in this video your Ai's high-score. Mine is 3150.
 Enjoy
