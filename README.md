@@ -7,5 +7,5 @@
 5. Double-click on !["Whac A Mole Ai.py](hit.png)
 6. At the top, press on run, then "Run Module" (F5).
 
-Comment in this video your Ai's high-score. Mine is 3150.
+Comment down below your Ai's high-score. Mine is 3150.
 Enjoy
